@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "nombre": "Pan básico",
+
+  "metodosCalculo": {
+    "porRaciones": true,
+    "porPorcentaje": true
+  },
+
+  "racionesBase": 10,
+
+  "ingredienteBase": "Harina",
+
+  "ingredientes": [
+    {
+      "nombre": "Harina",
+      "cantidad": 5000,
+      "unidad": "g",
+      "porcentaje": 100
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 3250,
+      "unidad": "g",
+      "porcentaje": 65
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 2
+    }
+  ]
+}
