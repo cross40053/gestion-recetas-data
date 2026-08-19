@@ -1,0 +1,37 @@
+[
+  {
+    "id": "g",
+    "nombre": "Gramos",
+    "tipo": "peso"
+  },
+  {
+    "id": "kg",
+    "nombre": "Kilogramos",
+    "tipo": "peso"
+  },
+  {
+    "id": "ml",
+    "nombre": "Mililitros",
+    "tipo": "volumen"
+  },
+  {
+    "id": "l",
+    "nombre": "Litros",
+    "tipo": "volumen"
+  },
+  {
+    "id": "unidad",
+    "nombre": "Unidad",
+    "tipo": "cantidad"
+  },
+  {
+    "id": "cda",
+    "nombre": "Cucharada",
+    "tipo": "volumen"
+  },
+  {
+    "id": "cdta",
+    "nombre": "Cucharadita",
+    "tipo": "volumen"
+  }
+]
