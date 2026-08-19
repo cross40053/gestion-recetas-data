@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pechuga de pollo"
+  },
+  {
+    "id": 2,
+    "nombre": "Crema de leche"
+  },
+  {
+    "id": 3,
+    "nombre": "Cebolla"
+  },
+  {
+    "id": 4,
+    "nombre": "Ají"
+  },
+  {
+    "id": 5,
+    "nombre": "Aceite de oliva"
+  },
+  {
+    "id": 6,
+    "nombre": "Sal"
+  },
+  {
+    "id": 7,
+    "nombre": "Pimienta"
+  }
+]
