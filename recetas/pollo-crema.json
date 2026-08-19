@@ -1,54 +1,87 @@
 {
   "id": 1,
+
   "nombre": "Pollo a la crema",
+
   "categoria": "Platos",
-  "descripcion": "Pechuga de pollo en salsa cremosa.",
-  "tiempoMinutos": 45,
-  "dificultad": "Media",
-  "racionesBase": 1,
+
+  "descripcion": "Delicioso pollo preparado con una salsa cremosa.",
+
   "imagen": "pollo-crema.jpg",
+
+  "tiempoMinutos": 45,
+
+  "dificultad": "Media",
+
+  "metodosCalculo": {
+    "porRaciones": true,
+    "porPorcentaje": true
+  },
+
+  "racionesBase": 4,
+
+  "ingredienteBase": {
+    "nombre": "Pechuga de pollo"
+  },
+
   "ingredientes": [
     {
       "nombre": "Pechuga de pollo",
-      "cantidad": 150,
+      "cantidad": 600,
       "unidad": "g",
-      "porcentaje": 30
+      "porcentaje": 100
     },
+
     {
       "nombre": "Crema de leche",
-      "cantidad": 100,
+      "cantidad": 400,
       "unidad": "ml",
-      "porcentaje": 20
+      "porcentaje": 66.67
     },
+
     {
       "nombre": "Cebolla",
-      "cantidad": 50,
+      "cantidad": 200,
       "unidad": "g",
-      "porcentaje": 10
+      "porcentaje": 33.33
     },
+
     {
-      "nombre": "Ají",
-      "cantidad": 5,
-      "unidad": "g",
-      "porcentaje": 2
-    },
-    {
-      "nombre": "Aceite de oliva",
-      "cantidad": 10,
+      "nombre": "Aceite vegetal",
+      "cantidad": 40,
       "unidad": "ml",
-      "porcentaje": 2
+      "porcentaje": 6.67
     },
+
     {
       "nombre": "Sal",
-      "cantidad": 0,
+      "cantidad": 10,
       "unidad": "g",
-      "porcentaje": 0
+      "porcentaje": 1.67
     },
+
     {
       "nombre": "Pimienta",
-      "cantidad": 0,
+      "cantidad": 5,
       "unidad": "g",
-      "porcentaje": 0
+      "porcentaje": 0.83
     }
+  ],
+
+  "pasos": [
+    "Cortar la pechuga de pollo en trozos.",
+    "Picar finamente la cebolla.",
+    "Calentar el aceite en una sartén.",
+    "Dorar el pollo.",
+    "Agregar la cebolla y cocinar hasta que esté transparente.",
+    "Agregar la crema de leche.",
+    "Condimentar con sal y pimienta.",
+    "Cocinar a fuego medio hasta obtener una salsa cremosa.",
+    "Servir caliente."
+  ],
+
+  "notas": [
+    "La cantidad de crema puede ajustarse según la consistencia deseada.",
+    "Servir inmediatamente después de preparar."
   ]
 }
