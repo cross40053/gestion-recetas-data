@@ -1,0 +1,60 @@
+{
+  "id": 1,
+
+  "nombre": "Pan básico",
+
+  "categoria": "Panadería",
+
+  "descripcion": "Receta de pan básico.",
+
+  "imagen": "pan-basico.jpg",
+
+  "tiempoMinutos": 90,
+
+  "dificultad": "Media",
+
+  "metodosCalculo": {
+    "porRaciones": true,
+    "porPorcentaje": true
+  },
+
+  "racionesBase": 10,
+
+  "ingredienteBase": {
+    "nombre": "Harina"
+  },
+
+  "ingredientes": [
+
+    {
+      "nombre": "Harina",
+      "cantidad": 5000,
+      "unidad": "g",
+      "porcentaje": 100
+    },
+
+    {
+      "nombre": "Agua",
+      "cantidad": 3250,
+      "unidad": "g",
+      "porcentaje": 65
+    },
+
+    {
+      "nombre": "Sal",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 2
+    }
+
+  ],
+
+  "pasos": [
+    "Mezclar los ingredientes.",
+    "Amasar.",
+    "Dejar reposar.",
+    "Hornear."
+  ],
+
+  "notas": []
+}
