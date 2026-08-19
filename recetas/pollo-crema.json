@@ -1,0 +1,54 @@
+{
+  "id": 1,
+  "nombre": "Pollo a la crema",
+  "categoria": "Platos",
+  "descripcion": "Pechuga de pollo en salsa cremosa.",
+  "tiempoMinutos": 45,
+  "dificultad": "Media",
+  "racionesBase": 1,
+  "imagen": "pollo-crema.jpg",
+  "ingredientes": [
+    {
+      "nombre": "Pechuga de pollo",
+      "cantidad": 150,
+      "unidad": "g",
+      "porcentaje": 30
+    },
+    {
+      "nombre": "Crema de leche",
+      "cantidad": 100,
+      "unidad": "ml",
+      "porcentaje": 20
+    },
+    {
+      "nombre": "Cebolla",
+      "cantidad": 50,
+      "unidad": "g",
+      "porcentaje": 10
+    },
+    {
+      "nombre": "Ají",
+      "cantidad": 5,
+      "unidad": "g",
+      "porcentaje": 2
+    },
+    {
+      "nombre": "Aceite de oliva",
+      "cantidad": 10,
+      "unidad": "ml",
+      "porcentaje": 2
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 0,
+      "unidad": "g",
+      "porcentaje": 0
+    },
+    {
+      "nombre": "Pimienta",
+      "cantidad": 0,
+      "unidad": "g",
+      "porcentaje": 0
+    }
+  ]
+}
