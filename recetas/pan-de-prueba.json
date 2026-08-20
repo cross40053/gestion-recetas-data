@@ -1,15 +1,15 @@
 {
   "nombre": "Pan de prueba",
   "categoria": "Panadería",
-  "descripcion": "Pan creado desde Postman.",
+  "descripcion": "Receta actualizada.",
   "imagen": "prueba.jpg",
-  "tiempoMinutos": 60,
-  "dificultad": "Media",
+  "tiempoMinutos": 75,
+  "dificultad": "Fácil",
+  "racionesBase": 10,
   "metodosCalculo": {
     "porRaciones": true,
     "porPorcentaje": true
   },
-  "racionesBase": 10,
   "ingredienteBase": {
     "nombre": "Harina"
   },
@@ -19,27 +19,14 @@
       "cantidad": 500,
       "unidad": "g",
       "porcentaje": 100
-    },
-    {
-      "nombre": "Agua",
-      "cantidad": 325,
-      "unidad": "ml",
-      "porcentaje": 65
-    },
-    {
-      "nombre": "Sal",
-      "cantidad": 10,
-      "unidad": "g",
-      "porcentaje": 2
     }
   ],
   "pasos": [
-    "Mezclar los ingredientes.",
+    "Mezclar.",
     "Amasar.",
-    "Dejar reposar.",
     "Hornear."
   ],
   "notas": [],
-  "id": 1787201130398,
+  "id": 1787201469375,
   "nombreArchivo": "pan-de-prueba"
 }
