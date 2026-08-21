@@ -3,8 +3,8 @@
   "categoria": "Panadería",
   "descripcion": "4",
   "imagen": "4.jpg",
-  "tiempoMinutos": 20,
-  "dificultad": "Media",
+  "tiempoMinutos": 200,
+  "dificultad": "Difícil",
   "metodosCalculo": {
     "porRaciones": true,
     "porPorcentaje": true
@@ -22,13 +22,22 @@
       "cantidad": 2,
       "unidad": "l",
       "porcentaje": 20
+    },
+    {
+      "nombre": "canela",
+      "cantidad": 10,
+      "unidad": "g",
+      "porcentaje": 20
     }
   ],
-  "pasos": [],
+  "pasos": [
+    "hola",
+    "a"
+  ],
   "notas": [],
   "ingredienteBase": {
     "nombre": "PAN"
   },
-  "id": 1787203850897,
+  "id": 1787284104642,
   "nombreArchivo": "4"
 }
