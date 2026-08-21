@@ -7,27 +7,24 @@
   "dificultad": "Difícil",
   "metodosCalculo": {
     "porRaciones": true,
-    "porPorcentaje": true
+    "porPorcentaje": false
   },
   "racionesBase": 1,
   "ingredientes": [
     {
       "nombre": "PAN",
       "cantidad": 100,
-      "unidad": "g",
-      "porcentaje": 100
+      "unidad": "g"
     },
     {
       "nombre": "CREMA",
       "cantidad": 2,
-      "unidad": "l",
-      "porcentaje": 20
+      "unidad": "l"
     },
     {
       "nombre": "canela",
       "cantidad": 10,
-      "unidad": "g",
-      "porcentaje": 20
+      "unidad": "g"
     }
   ],
   "pasos": [
@@ -35,9 +32,6 @@
     "a"
   ],
   "notas": [],
-  "ingredienteBase": {
-    "nombre": "PAN"
-  },
-  "id": 1787284104642,
+  "id": 1787285470590,
   "nombreArchivo": "4"
 }
