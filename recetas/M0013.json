@@ -7,7 +7,7 @@
   "imagen": "",
   "fechas": {
     "creacion": "2026-08-22",
-    "actualizacion": "2026-08-22T23:39:04.869Z"
+    "actualizacion": "2026-08-22T23:40:15.706Z"
   },
   "rendimiento": {
     "unidadesPorLote": 16,
@@ -96,7 +96,7 @@
     "pruebasCalidad": ""
   },
   "controlRR": {
-    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2_",
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1",
     "frecuenciaControl": "Quincenal",
     "criteriosAceptacion": "Temperatura de masa, apariencia fisica",
     "registroResultados": "Libro de"
