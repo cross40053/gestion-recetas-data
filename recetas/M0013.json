@@ -105,10 +105,10 @@
   },
 
   "controlRR": {
-    "metodoMedicion": "",
-    "frecuenciaControl": "",
-    "criteriosAceptacion": "",
-    "registroResultados": ""
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apariencia fisica",
+    "registroResultados": "Libro de registros"
   },
 
   "almacenamiento": {
@@ -119,6 +119,6 @@
 
   "comercializacion": {
     "precioVenta": 0,
-    "precioMayorista": 0
+    "precioMayorista": 3.25
   }
 }
