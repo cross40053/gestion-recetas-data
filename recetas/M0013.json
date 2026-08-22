@@ -1,0 +1,62 @@
+{
+  "id": "M0013",
+  "nombre": "Ensaimada Mallorca R1",
+  "categoria": "Panadería",
+  "descripcion": "",
+  "autor": "",
+  "imagen": "",
+
+  "fechas": {
+    "creacion": "2026-08-22",
+    "actualizacion": "2026-08-22"
+  },
+
+  "rendimiento": {
+    "unidadesPorLote": 16,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 100,
+    "merma": 0
+  },
+
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": "ING001"
+  },
+
+  "materiaPrima": [],
+
+  "manoDeObra": [],
+
+  "costosIndirectos": [],
+
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+
+  "controlRR": {
+    "metodoMedicion": "",
+    "frecuenciaControl": "",
+    "criteriosAceptacion": "",
+    "registroResultados": ""
+  },
+
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+
+  "comercializacion": {
+    "precioVenta": 0,
+    "precioMayorista": 0
+  }
+}
