@@ -13,6 +13,20 @@
       "unidad": "g",
       "precioUnidad": 0.0018,
       "activo": true
+    },
+    {
+      "id": "ING003",
+      "nombre": "Azúcar Casa Grande",
+      "unidad": "g",
+      "precioUnidad": 0.004,
+      "activo": true
+    },
+    {
+      "id": "ING004",
+      "nombre": "Manteca Famosa",
+      "unidad": "g",
+      "precioUnidad": 0.0088,
+      "activo": true
     }
   ]
 }
