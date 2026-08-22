@@ -24,9 +24,71 @@
     "ingredienteBase": "ING001"
   },
 
-  "materiaPrima": [],
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING001",
+      "nombre": "Harina Panadera Nicollini",
+      "cantidad": 500,
+      "unidad": "g",
+      "porcentaje": 100,
+      "desperdicio": 5,
+      "precioUnidad": 0.003
+    },
+    {
+      "ingredienteId": "ING002",
+      "nombre": "Sal",
+      "cantidad": 6,
+      "unidad": "g",
+      "porcentaje": 1.2,
+      "desperdicio": 5,
+      "precioUnidad": 0.0018
+    },
+    {
+      "ingredienteId": "ING003",
+      "nombre": "Azúcar Casa Grande",
+      "cantidad": 160,
+      "unidad": "g",
+      "porcentaje": 32,
+      "desperdicio": 5,
+      "precioUnidad": 0.004
+    },
+    {
+      "ingredienteId": "ING004",
+      "nombre": "Manteca Famosa",
+      "cantidad": 50,
+      "unidad": "g",
+      "porcentaje": 10,
+      "desperdicio": 6,
+      "precioUnidad": 0.0088
+    }
+  ],
 
-  "manoDeObra": [],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Laminado",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Reposo",
+      "tiempo": 720,
+      "unidadTiempo": "minutos",
+      "costoHora": 1
+    },
+    {
+      "etapa": "Horneado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
 
   "costosIndirectos": [],
 
