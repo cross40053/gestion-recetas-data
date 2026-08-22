@@ -5,25 +5,21 @@
   "descripcion": "",
   "autor": "",
   "imagen": "",
-
   "fechas": {
     "creacion": "2026-08-22",
-    "actualizacion": "2026-08-22"
+    "actualizacion": "2026-08-22T23:35:57.196Z"
   },
-
   "rendimiento": {
     "unidadesPorLote": 16,
     "pesoPorUnidad": 0,
     "rendimientoEsperado": 100,
     "merma": 0
   },
-
   "formulacion": {
     "porRaciones": true,
     "porPorcentaje": true,
     "ingredienteBase": "ING001"
   },
-
   "materiaPrima": [
     {
       "ingredienteId": "ING001",
@@ -62,7 +58,6 @@
       "precioUnidad": 0.0088
     }
   ],
-
   "manoDeObra": [
     {
       "etapa": "Amasado",
@@ -89,34 +84,28 @@
       "costoHora": 10
     }
   ],
-
   "costosIndirectos": [],
-
   "preparacion": {
     "pasos": [],
     "notas": []
   },
-
   "calidad": {
     "pesoFinal": "",
     "caracteristicasSensoriales": "",
     "rangosAceptables": "",
     "pruebasCalidad": ""
   },
-
   "controlRR": {
-    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2_",
     "frecuenciaControl": "Quincenal",
     "criteriosAceptacion": "Temperatura de masa, apariencia fisica",
     "registroResultados": "Libro de registros"
   },
-
   "almacenamiento": {
     "metodo": "",
     "vidaUtil": "",
     "etiquetado": ""
   },
-
   "comercializacion": {
     "precioVenta": 0,
     "precioMayorista": 3.25
