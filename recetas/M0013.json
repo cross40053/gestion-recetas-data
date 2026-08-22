@@ -99,7 +99,7 @@
     "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
     "frecuenciaControl": "Quincenal",
     "criteriosAceptacion": "Temperatura de masa, apariencia fisica",
-    "registroResultados": "Libro de Libro"
+    "registroResultados": "Libro de registros"
   },
   "almacenamiento": {
     "metodo": "",
