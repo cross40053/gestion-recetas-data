@@ -10,7 +10,7 @@
     {
       "id": "ING002",
       "nombre": "Sal",
-      "unidad": "ml",
+      "unidad": "g",
       "precioUnidad": 0.0018,
       "activo": true
     },
