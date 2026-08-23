@@ -27,13 +27,6 @@
       "unidad": "g",
       "precioUnidad": 0.0088,
       "activo": true
-    },
-    {
-      "id": "ING005",
-      "nombre": "P1",
-      "unidad": "G",
-      "precioUnidad": 0.25,
-      "activo": true
     }
   ]
 }
