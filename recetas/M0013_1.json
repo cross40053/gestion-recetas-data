@@ -1,0 +1,175 @@
+{
+  "id": "M0013_1",
+  "nombre": "Ensaimada Mallorca MQA R2",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 16 unid",
+  "autor": "Miguel Tena",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-01-09",
+    "actualizacion": "2025-01-15"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 16,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "",
+      "nombre": "Harina Panadera Nicollini",
+      "cantidad": 500,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "",
+      "nombre": "Sal",
+      "cantidad": 6,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "",
+      "nombre": "Azúcar Casa Grande",
+      "cantidad": 160,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "",
+      "nombre": "Mantequilla Delice",
+      "cantidad": 50,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 6,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "",
+      "nombre": "Agua Fria",
+      "cantidad": 160,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "",
+      "nombre": "Mantequilla Delice P/Untar",
+      "cantidad": 160,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "",
+      "nombre": "Levadura Fleishman",
+      "cantidad": 20,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "",
+      "nombre": "Huevos Pardos",
+      "cantidad": 36,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 0
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Laminado",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Reposo",
+      "tiempo": 0,
+      "unidadTiempo": "minutos",
+      "costoHora": 1
+    },
+    {
+      "etapa": "Horneado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 1500,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 0,
+    "precioMayorista": 0
+  }
+}
