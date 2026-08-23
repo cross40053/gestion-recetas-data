@@ -84,38 +84,7 @@
       "costoHora": 10
     }
   ],
-"costosIndirectos": [
-  {
-    "concepto": "Electricidad",
-    "costoMensual": 1500,
-    "porcentajeAsignado": 10,
-    "costoAsignado": 150
-  },
-  {
-    "concepto": "Agua",
-    "costoMensual": 300,
-    "porcentajeAsignado": 10,
-    "costoAsignado": 30
-  },
-  {
-    "concepto": "Gas",
-    "costoMensual": 600,
-    "porcentajeAsignado": 10,
-    "costoAsignado": 60
-  },
-  {
-    "concepto": "Alquiler",
-    "costoMensual": 3800,
-    "porcentajeAsignado": 5,
-    "costoAsignado": 190
-  },
-  {
-    "concepto": "Mantenimiento",
-    "costoMensual": 500,
-    "porcentajeAsignado": 5,
-    "costoAsignado": 25
-  }
-], 
+"costosIndirectos": [], 
   "preparacion": {
     "pasos": [],
     "notas": []
