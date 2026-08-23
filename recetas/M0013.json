@@ -7,7 +7,7 @@
   "imagen": "",
   "fechas": {
     "creacion": "2026-08-22",
-    "actualizacion": "2026-08-22T23:50:45.744Z"
+    "actualizacion": "2026-08-22"
   },
   "rendimiento": {
     "unidadesPorLote": 16,
@@ -63,28 +63,77 @@
       "etapa": "Amasado",
       "tiempo": 20,
       "unidadTiempo": "minutos",
-      "costoHora": 10
+      "costoHora": 10,
+      "costoTotal": 3.33
     },
     {
       "etapa": "Laminado",
       "tiempo": 30,
       "unidadTiempo": "minutos",
-      "costoHora": 10
+      "costoHora": 10,
+      "costoTotal": 5.00
     },
     {
       "etapa": "Reposo",
       "tiempo": 720,
       "unidadTiempo": "minutos",
-      "costoHora": 1
+      "costoHora": 1,
+      "costoTotal": 12.00
     },
     {
       "etapa": "Horneado",
       "tiempo": 20,
       "unidadTiempo": "minutos",
-      "costoHora": 10
+      "costoHora": 10,
+      "costoTotal": 3.33
     }
   ],
-"costosIndirectos": [], 
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 1500,
+      "porcentajeAsignado": 10,
+      "costoAsignado": 150
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 10,
+      "costoAsignado": 30
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 10,
+      "costoAsignado": 60
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5,
+      "costoAsignado": 190
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5,
+      "costoAsignado": 25
+    }
+  ],
+  "produccionMensual": {
+    "unidades": 500,
+    "unidad": "unds"
+  },
+  "resumenCostos": {
+    "totalMateriaPrima": 5.09,
+    "totalManoDeObra": 23.67,
+    "totalCostosIndirectos": 0.91,
+    "costoLote": 29.67,
+    "unidadesPorLote": 16,
+    "costoUnitario": 1.85,
+    "precioVenta": 5.56,
+    "precioMayorista": 3.25
+  },
   "preparacion": {
     "pasos": [],
     "notas": []
@@ -107,7 +156,7 @@
     "etiquetado": ""
   },
   "comercializacion": {
-    "precioVenta": 0,
+    "precioVenta": 5.56,
     "precioMayorista": 3.25
   }
 }
