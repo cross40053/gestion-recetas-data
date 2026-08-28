@@ -412,6 +412,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING060",
+      "nombre": "Queso crema Laive",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
