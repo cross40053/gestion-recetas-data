@@ -209,6 +209,13 @@
       "unidad": "g",
       "precioUnidad": 64,
       "activo": true
+    },
+    {
+      "id": "ING031",
+      "nombre": "Mantequilla",
+      "unidad": "g",
+      "precioUnidad": 65,
+      "activo": true
     }
   ]
 }
