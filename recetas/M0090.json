@@ -1,0 +1,133 @@
+{
+  "id": "M0090",
+  "nombre": "Pan Ciabatta",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 96 unid",
+  "autor": "Juan Segura",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-04-03",
+    "actualizacion": "2025-04-03"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 96,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING001",
+      "nombre": "Harina Panadera",
+      "cantidad": 5000,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0.0024
+    },
+    {
+      "ingredienteId": "ING005",
+      "nombre": "Sal",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING009",
+      "nombre": "Agua Helada",
+      "cantidad": 3500,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0.001
+    },
+    {
+      "ingredienteId": "ING010",
+      "nombre": "Levadura",
+      "cantidad": 60,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 7
+    },
+    {
+      "etapa": "Formado",
+      "tiempo": 25,
+      "unidadTiempo": "minutos",
+      "costoHora": 7
+    },
+    {
+      "etapa": "Horneado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 7
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 2500,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 5000,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 0.47467948717948716,
+    "precioMayorista": 0.23733974358974358
+  }
+}
