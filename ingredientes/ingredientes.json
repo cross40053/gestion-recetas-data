@@ -447,6 +447,13 @@
       "unidad": "g",
       "precioUnidad": 0.032,
       "activo": true
+    },
+    {
+      "id": "ING065",
+      "nombre": "Canela en polvo",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
