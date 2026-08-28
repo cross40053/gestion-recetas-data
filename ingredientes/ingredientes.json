@@ -90,6 +90,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING014",
+      "nombre": "Harina Integral",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
