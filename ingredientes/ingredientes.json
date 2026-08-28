@@ -104,6 +104,13 @@
       "unidad": "g",
       "precioUnidad": 67,
       "activo": true
+    },
+    {
+      "id": "ING016",
+      "nombre": "Oregano",
+      "unidad": "g",
+      "precioUnidad": 14,
+      "activo": true
     }
   ]
 }
