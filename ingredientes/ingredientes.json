@@ -258,6 +258,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING038",
+      "nombre": "Castañas Laminadas",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
