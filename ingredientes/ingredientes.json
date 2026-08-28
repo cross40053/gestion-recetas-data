@@ -265,6 +265,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING039",
+      "nombre": "Almendras Laminadas",
+      "unidad": "g",
+      "precioUnidad": 0.105,
+      "activo": true
     }
   ]
 }
