@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING005",
-      "nombre": "Harina Panadera",
-      "unidad": "g",
-      "precioUnidad": 4,
-      "activo": true
-    },
-    {
       "id": "ING006",
       "nombre": "Azucar",
       "unidad": "g",
