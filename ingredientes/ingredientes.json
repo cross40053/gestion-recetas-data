@@ -223,6 +223,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING033",
+      "nombre": "Maicena",
+      "unidad": "g",
+      "precioUnidad": 0.0038,
+      "activo": true
     }
   ]
 }
