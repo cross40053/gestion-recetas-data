@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING012",
-      "nombre": "Agua Helada",
-      "unidad": "g",
-      "precioUnidad": 70,
-      "activo": true
-    },
-    {
       "id": "ING013",
       "nombre": "Levadura",
       "unidad": "g",
