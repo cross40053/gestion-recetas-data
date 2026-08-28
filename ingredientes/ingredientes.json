@@ -55,6 +55,13 @@
       "unidad": "g",
       "precioUnidad": 64,
       "activo": true
+    },
+    {
+      "id": "ING009",
+      "nombre": "Leche en polvo",
+      "unidad": "g",
+      "precioUnidad": 112,
+      "activo": true
     }
   ]
 }
