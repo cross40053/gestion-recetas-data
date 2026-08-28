@@ -223,6 +223,13 @@
       "unidad": "g",
       "precioUnidad": 19,
       "activo": true
+    },
+    {
+      "id": "ING033",
+      "nombre": "Esencia de Vainilla",
+      "unidad": "g",
+      "precioUnidad": 17,
+      "activo": true
     }
   ]
 }
