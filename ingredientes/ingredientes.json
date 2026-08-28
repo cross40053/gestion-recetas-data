@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING016",
-      "nombre": "Oregano",
-      "unidad": "g",
-      "precioUnidad": 14,
-      "activo": true
-    },
-    {
       "id": "ING017",
       "nombre": "Harina Integral",
       "unidad": "g",
