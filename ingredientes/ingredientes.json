@@ -349,6 +349,13 @@
       "unidad": "g",
       "precioUnidad": 29,
       "activo": true
+    },
+    {
+      "id": "ING051",
+      "nombre": "Harina pastelera Nicolini",
+      "unidad": "g",
+      "precioUnidad": 7,
+      "activo": true
     }
   ]
 }
