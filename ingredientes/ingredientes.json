@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING018",
-      "nombre": "Azucar Blanca",
-      "unidad": "g",
-      "precioUnidad": 9,
-      "activo": true
-    },
-    {
       "id": "ING019",
       "nombre": "Harina Pastelera Nicollini",
       "unidad": "g",
