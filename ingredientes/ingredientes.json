@@ -286,6 +286,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING042",
+      "nombre": "Chocolate de leche 40%  Cacaosuyo",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
