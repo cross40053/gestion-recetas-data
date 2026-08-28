@@ -342,6 +342,13 @@
       "unidad": "g",
       "precioUnidad": 35,
       "activo": true
+    },
+    {
+      "id": "ING050",
+      "nombre": "Chocolate 60% Cacaosuyo",
+      "unidad": "g",
+      "precioUnidad": 29,
+      "activo": true
     }
   ]
 }
