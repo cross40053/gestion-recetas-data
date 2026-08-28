@@ -321,6 +321,13 @@
       "unidad": "g",
       "precioUnidad": 5,
       "activo": true
+    },
+    {
+      "id": "ING047",
+      "nombre": "Vinagre",
+      "unidad": "g",
+      "precioUnidad": 58,
+      "activo": true
     }
   ]
 }
