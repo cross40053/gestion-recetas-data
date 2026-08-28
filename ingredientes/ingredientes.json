@@ -251,6 +251,13 @@
       "unidad": "g",
       "precioUnidad": 9,
       "activo": true
+    },
+    {
+      "id": "ING037",
+      "nombre": "Huevos",
+      "unidad": "g",
+      "precioUnidad": 61,
+      "activo": true
     }
   ]
 }
