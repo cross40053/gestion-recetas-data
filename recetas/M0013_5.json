@@ -1,0 +1,148 @@
+{
+  "id": "M0013_5",
+  "nombre": "Panchineta",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 36 Unidades",
+  "autor": "Miguel Tena",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-01-09",
+    "actualizacion": "2026-08-27"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 36,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING070",
+      "nombre": "Harina Panadera Nicollini",
+      "cantidad": 1250,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 5
+    },
+    {
+      "ingredienteId": "ING059",
+      "nombre": "Sal",
+      "cantidad": 37.5,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 13
+    },
+    {
+      "ingredienteId": "ING028",
+      "nombre": "Mantequilla Delice",
+      "cantidad": 236,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 65
+    },
+    {
+      "ingredienteId": "ING073",
+      "nombre": "Agua Fria",
+      "cantidad": 620,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 70
+    },
+    {
+      "ingredienteId": "ING025",
+      "nombre": "Mantequilla Delice Empaste",
+      "cantidad": 1000,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 65
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Laminado",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Reposo",
+      "tiempo": 1260,
+      "unidadTiempo": "minutos",
+      "costoHora": 1
+    },
+    {
+      "etapa": "Horneado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 2000,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 5812,
+    "precioMayorista": 581.75
+  }
+}
