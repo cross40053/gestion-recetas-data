@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING001",
-      "nombre": "Harina Panadera Nicollini",
-      "unidad": "g",
-      "precioUnidad": 0.003,
-      "activo": true
-    },
-    {
       "id": "ING002",
       "nombre": "Sal",
       "unidad": "g",
