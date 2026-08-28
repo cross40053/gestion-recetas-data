@@ -251,6 +251,13 @@
       "unidad": "g",
       "precioUnidad": 64,
       "activo": true
+    },
+    {
+      "id": "ING059",
+      "nombre": "Sal",
+      "unidad": "g",
+      "precioUnidad": 13,
+      "activo": true
     }
   ]
 }
