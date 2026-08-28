@@ -230,6 +230,13 @@
       "unidad": "g",
       "precioUnidad": 4,
       "activo": true
+    },
+    {
+      "id": "ING056",
+      "nombre": "Azucar",
+      "unidad": "g",
+      "precioUnidad": 9,
+      "activo": true
     }
   ]
 }
