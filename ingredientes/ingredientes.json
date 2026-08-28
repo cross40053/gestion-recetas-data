@@ -41,6 +41,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING007",
+      "nombre": "Ajonjoli",
+      "unidad": "g",
+      "precioUnidad": 0.019,
+      "activo": true
     }
   ]
 }
