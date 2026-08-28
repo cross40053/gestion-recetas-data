@@ -321,6 +321,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING047",
+      "nombre": "Cobertura Bitter 60% Romex",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
