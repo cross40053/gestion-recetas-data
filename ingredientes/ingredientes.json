@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING020",
-      "nombre": "Agua Fria",
-      "unidad": "g",
-      "precioUnidad": 70,
-      "activo": true
-    },
-    {
       "id": "ING021",
       "nombre": "Margarina Multiuso Prim",
       "unidad": "g",
