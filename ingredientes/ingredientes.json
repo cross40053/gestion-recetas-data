@@ -209,6 +209,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING031",
+      "nombre": "Leche Fresca",
+      "unidad": "ml",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
