@@ -363,6 +363,13 @@
       "unidad": "g",
       "precioUnidad": 5,
       "activo": true
+    },
+    {
+      "id": "ING053",
+      "nombre": "Mantequilla sin sal Delice",
+      "unidad": "g",
+      "precioUnidad": 65,
+      "activo": true
     }
   ]
 }
