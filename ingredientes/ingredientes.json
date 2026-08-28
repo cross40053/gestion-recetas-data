@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING006",
-      "nombre": "Azucar",
-      "unidad": "g",
-      "precioUnidad": 9,
-      "activo": true
-    },
-    {
       "id": "ING007",
       "nombre": "Manteca",
       "unidad": "g",
