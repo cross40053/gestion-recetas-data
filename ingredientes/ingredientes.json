@@ -216,6 +216,13 @@
       "unidad": "ml",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING032",
+      "nombre": "Azucar Casa Grande",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
