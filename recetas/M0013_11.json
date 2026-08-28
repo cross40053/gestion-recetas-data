@@ -1,0 +1,226 @@
+{
+  "id": "M0013_11",
+  "nombre": "Pionono Santa Fe",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 14 Unidades",
+  "autor": "Miguel Tena",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-01-09",
+    "actualizacion": "2026-08-27"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 14,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING016",
+      "nombre": "Harina Panadera Nicollini",
+      "cantidad": 135,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING032",
+      "nombre": "Azucar Casa Grande",
+      "cantidad": 90,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING034",
+      "nombre": "Huevos",
+      "cantidad": 525,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING033",
+      "nombre": "Maicena",
+      "cantidad": 54,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0.0038
+    },
+    {
+      "ingredienteId": "ING050",
+      "nombre": "Cremor Tartaro",
+      "cantidad": 1.5,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 6,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING051",
+      "nombre": "Agua",
+      "cantidad": 90,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING002",
+      "nombre": "Azucar",
+      "cantidad": 35,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING052",
+      "nombre": "Canela en Rama",
+      "cantidad": 2,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING031",
+      "nombre": "Leche Fresca",
+      "cantidad": 500,
+      "unidad": "ml",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING032",
+      "nombre": "Azucar Casa Grande",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING033",
+      "nombre": "Maicena",
+      "cantidad": 40,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0.0038
+    },
+    {
+      "ingredienteId": "ING034",
+      "nombre": "Huevos",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING030",
+      "nombre": "Margarina Multiuso",
+      "cantidad": 50,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 6,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING035",
+      "nombre": "Esencia de Vainilla",
+      "cantidad": 3,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING015",
+      "nombre": "Azucar Blanca",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 60,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Horneado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 2000,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 2.2285714285714286,
+    "precioMayorista": 1.3
+  }
+}
