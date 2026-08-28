@@ -363,6 +363,13 @@
       "unidad": "g",
       "precioUnidad": 64,
       "activo": true
+    },
+    {
+      "id": "ING075",
+      "nombre": "Levadura Fleishman",
+      "unidad": "g",
+      "precioUnidad": 16,
+      "activo": true
     }
   ]
 }
