@@ -167,6 +167,13 @@
       "unidad": "g",
       "precioUnidad": 65,
       "activo": true
+    },
+    {
+      "id": "ING025",
+      "nombre": "Mantequilla Delice Empaste",
+      "unidad": "g",
+      "precioUnidad": 65,
+      "activo": true
     }
   ]
 }
