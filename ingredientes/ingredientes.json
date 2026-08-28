@@ -62,6 +62,13 @@
       "unidad": "g",
       "precioUnidad": 0.001,
       "activo": true
+    },
+    {
+      "id": "ING010",
+      "nombre": "Levadura",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
