@@ -48,6 +48,13 @@
       "unidad": "g",
       "precioUnidad": 0.019,
       "activo": true
+    },
+    {
+      "id": "ING008",
+      "nombre": "Anis",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
