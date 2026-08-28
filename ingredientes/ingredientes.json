@@ -272,6 +272,13 @@
       "unidad": "g",
       "precioUnidad": 123,
       "activo": true
+    },
+    {
+      "id": "ING040",
+      "nombre": "Azucar Invertida",
+      "unidad": "g",
+      "precioUnidad": 0,
+      "activo": true
     }
   ]
 }
