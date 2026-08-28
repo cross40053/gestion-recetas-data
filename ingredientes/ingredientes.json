@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING015",
-      "nombre": "Margarina Hojaldre",
-      "unidad": "g",
-      "precioUnidad": 67,
-      "activo": true
-    },
-    {
       "id": "ING016",
       "nombre": "Oregano",
       "unidad": "g",
