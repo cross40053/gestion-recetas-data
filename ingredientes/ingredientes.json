@@ -370,6 +370,13 @@
       "unidad": "g",
       "precioUnidad": 65,
       "activo": true
+    },
+    {
+      "id": "ING054",
+      "nombre": "Levadura fresca Fleishman",
+      "unidad": "g",
+      "precioUnidad": 16,
+      "activo": true
     }
   ]
 }
