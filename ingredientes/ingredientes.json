@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING004",
-      "nombre": "Manteca Famosa",
-      "unidad": "g",
-      "precioUnidad": 0.0088,
-      "activo": true
-    },
-    {
       "id": "ING005",
       "nombre": "Harina Panadera",
       "unidad": "g",
