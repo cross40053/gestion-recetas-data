@@ -335,6 +335,13 @@
       "unidad": "g",
       "precioUnidad": 5,
       "activo": true
+    },
+    {
+      "id": "ING071",
+      "nombre": "Harina Pastelera Nicollini",
+      "unidad": "g",
+      "precioUnidad": 7,
+      "activo": true
     }
   ]
 }
