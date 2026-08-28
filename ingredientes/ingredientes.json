@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING002",
-      "nombre": "Sal",
-      "unidad": "g",
-      "precioUnidad": 0.0018,
-      "activo": true
-    },
-    {
       "id": "ING003",
       "nombre": "Azúcar Casa Grande",
       "unidad": "g",
