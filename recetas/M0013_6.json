@@ -1,0 +1,199 @@
+{
+  "id": "M0013_6",
+  "nombre": "Churros 1 Mantequilla",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 12 porciones de 80gr",
+  "autor": "Miguel Tena",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-01-09",
+    "actualizacion": "2026-08-27"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 20,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING016",
+      "nombre": "Harina Panadera Nicollini",
+      "cantidad": 250,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING005",
+      "nombre": "Sal",
+      "cantidad": 3,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING018",
+      "nombre": "Azúcar Casa Grande",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING040",
+      "nombre": "Mantequilla",
+      "cantidad": 75,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 6,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING019",
+      "nombre": "Agua Fria",
+      "cantidad": 500,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0.001
+    },
+    {
+      "ingredienteId": "ING041",
+      "nombre": "Pasta de Vainilla",
+      "cantidad": 4,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING027",
+      "nombre": "Huevos Pardos",
+      "cantidad": 170,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING042",
+      "nombre": "Chocolate de leche 40%  Cacaosuyo",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING043",
+      "nombre": "Chocolate Bitter 60% CACAOSUYO",
+      "cantidad": 200,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING044",
+      "nombre": "Crema de Leche",
+      "cantidad": 200,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING005",
+      "nombre": "Sal",
+      "cantidad": 2,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 6,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING045",
+      "nombre": "Glucosa",
+      "cantidad": 200,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Reposo",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 1500,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 0.7612500000000001,
+    "precioMayorista": 0.4440625
+  }
+}
