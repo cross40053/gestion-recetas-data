@@ -440,6 +440,13 @@
       "unidad": "g",
       "precioUnidad": 0,
       "activo": true
+    },
+    {
+      "id": "ING064",
+      "nombre": "Queso crema Delice",
+      "unidad": "g",
+      "precioUnidad": 0.032,
+      "activo": true
     }
   ]
 }
