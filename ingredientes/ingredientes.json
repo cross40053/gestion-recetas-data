@@ -244,6 +244,13 @@
       "unidad": "g",
       "precioUnidad": 66,
       "activo": true
+    },
+    {
+      "id": "ING058",
+      "nombre": "Margarina Primavera",
+      "unidad": "g",
+      "precioUnidad": 64,
+      "activo": true
     }
   ]
 }
