@@ -139,6 +139,13 @@
       "unidad": "g",
       "precioUnidad": 70,
       "activo": true
+    },
+    {
+      "id": "ING021",
+      "nombre": "Margarina Multiuso Prim",
+      "unidad": "g",
+      "precioUnidad": 64,
+      "activo": true
     }
   ]
 }
