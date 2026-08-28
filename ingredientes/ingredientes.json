@@ -265,6 +265,13 @@
       "unidad": "g",
       "precioUnidad": 57,
       "activo": true
+    },
+    {
+      "id": "ING039",
+      "nombre": "Cremor Tartaro",
+      "unidad": "g",
+      "precioUnidad": 123,
+      "activo": true
     }
   ]
 }
