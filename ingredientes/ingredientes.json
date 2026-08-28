@@ -342,6 +342,13 @@
       "unidad": "g",
       "precioUnidad": 7,
       "activo": true
+    },
+    {
+      "id": "ING072",
+      "nombre": "Azúcar Casa Grande",
+      "unidad": "g",
+      "precioUnidad": 9,
+      "activo": true
     }
   ]
 }
