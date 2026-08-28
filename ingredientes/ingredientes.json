@@ -314,6 +314,13 @@
       "unidad": "g",
       "precioUnidad": 108,
       "activo": true
+    },
+    {
+      "id": "ING046",
+      "nombre": "Harina Especial",
+      "unidad": "g",
+      "precioUnidad": 5,
+      "activo": true
     }
   ]
 }
