@@ -97,6 +97,13 @@
       "unidad": "g",
       "precioUnidad": 61,
       "activo": true
+    },
+    {
+      "id": "ING015",
+      "nombre": "Margarina Hojaldre",
+      "unidad": "g",
+      "precioUnidad": 67,
+      "activo": true
     }
   ]
 }
