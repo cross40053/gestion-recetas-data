@@ -181,6 +181,13 @@
       "unidad": "g",
       "precioUnidad": 66,
       "activo": true
+    },
+    {
+      "id": "ING027",
+      "nombre": "Huevos Pardos",
+      "unidad": "g",
+      "precioUnidad": 61,
+      "activo": true
     }
   ]
 }
