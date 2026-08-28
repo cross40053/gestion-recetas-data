@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING007",
-      "nombre": "Manteca",
-      "unidad": "g",
-      "precioUnidad": 66,
-      "activo": true
-    },
-    {
       "id": "ING008",
       "nombre": "Margarina Primavera",
       "unidad": "g",
