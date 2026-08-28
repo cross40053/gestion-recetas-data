@@ -160,6 +160,13 @@
       "unidad": "g",
       "precioUnidad": 67,
       "activo": true
+    },
+    {
+      "id": "ING024",
+      "nombre": "Mantequilla Delice Masa",
+      "unidad": "g",
+      "precioUnidad": 65,
+      "activo": true
     }
   ]
 }
