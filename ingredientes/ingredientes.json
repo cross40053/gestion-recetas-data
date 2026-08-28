@@ -1,4 +1,11 @@
 {
   "ingredientes": [
+    {
+      "id": "ING001",
+      "nombre": "Harina Panadera",
+      "unidad": "g",
+      "precioUnidad": 0.0024,
+      "activo": true
+    }
   ]
 }
