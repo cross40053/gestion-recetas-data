@@ -370,6 +370,13 @@
       "unidad": "g",
       "precioUnidad": 16,
       "activo": true
+    },
+    {
+      "id": "ING076",
+      "nombre": "Manteca Famosa",
+      "unidad": "g",
+      "precioUnidad": 66,
+      "activo": true
     }
   ]
 }
