@@ -1,0 +1,154 @@
+{
+  "id": "M0013_15",
+  "nombre": "Tarta de Queso",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 8 porciones",
+  "autor": "Miguel Tena",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-01-09",
+    "actualizacion": "2026-08-27"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 8,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING048",
+      "nombre": "Queso crema Delice",
+      "cantidad": 480,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 104
+    },
+    {
+      "ingredienteId": "ING045",
+      "nombre": "Crema de leche Gloria",
+      "cantidad": 240,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 107
+    },
+    {
+      "ingredienteId": "ING014",
+      "nombre": "Huevo",
+      "cantidad": 220,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 61
+    },
+    {
+      "ingredienteId": "ING018",
+      "nombre": "Azucar Blanca",
+      "cantidad": 120,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 9
+    },
+    {
+      "ingredienteId": "ING046",
+      "nombre": "Harina Especial",
+      "cantidad": 10,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 5
+    },
+    {
+      "ingredienteId": "ING045",
+      "nombre": "Crema de leche Gloria",
+      "cantidad": 50,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 107
+    },
+    {
+      "ingredienteId": "ING047",
+      "nombre": "Vinagre",
+      "cantidad": 3,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 58
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 60,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Horneado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 2000,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 4712,
+    "precioMayorista": 471.75
+  }
+}
