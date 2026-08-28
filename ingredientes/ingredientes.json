@@ -216,6 +216,13 @@
       "unidad": "g",
       "precioUnidad": 65,
       "activo": true
+    },
+    {
+      "id": "ING032",
+      "nombre": "Pasta de Vainilla",
+      "unidad": "g",
+      "precioUnidad": 19,
+      "activo": true
     }
   ]
 }
