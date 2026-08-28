@@ -230,6 +230,13 @@
       "unidad": "g",
       "precioUnidad": 17,
       "activo": true
+    },
+    {
+      "id": "ING034",
+      "nombre": "Margarina",
+      "unidad": "g",
+      "precioUnidad": 64,
+      "activo": true
     }
   ]
 }
