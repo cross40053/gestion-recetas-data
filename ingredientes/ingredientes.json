@@ -356,6 +356,13 @@
       "unidad": "g",
       "precioUnidad": 7,
       "activo": true
+    },
+    {
+      "id": "ING052",
+      "nombre": "Harina panadera Nicolini",
+      "unidad": "g",
+      "precioUnidad": 5,
+      "activo": true
     }
   ]
 }
