@@ -153,6 +153,13 @@
       "unidad": "g",
       "precioUnidad": 16,
       "activo": true
+    },
+    {
+      "id": "ING023",
+      "nombre": "Margarina Hojaldre Prim",
+      "unidad": "g",
+      "precioUnidad": 67,
+      "activo": true
     }
   ]
 }
