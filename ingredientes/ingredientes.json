@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING019",
-      "nombre": "Harina Pastelera Nicollini",
-      "unidad": "g",
-      "precioUnidad": 7,
-      "activo": true
-    },
-    {
       "id": "ING020",
       "nombre": "Agua Fria",
       "unidad": "g",
