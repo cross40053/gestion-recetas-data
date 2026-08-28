@@ -1,0 +1,172 @@
+{
+  "id": "M0013_13",
+  "nombre": "Pionono Santa Fe",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 14 Unidades",
+  "autor": "Miguel Tena",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-01-09",
+    "actualizacion": "2026-08-27"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 14,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING070",
+      "nombre": "Harina Panadera Nicollini",
+      "cantidad": 116,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 5
+    },
+    {
+      "ingredienteId": "ING040",
+      "nombre": "Azucar Invertida",
+      "cantidad": 48,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING031",
+      "nombre": "Mantequilla",
+      "cantidad": 82,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 65
+    },
+    {
+      "ingredienteId": "ING041",
+      "nombre": "Leche Fresca Gloria",
+      "cantidad": 226,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING033",
+      "nombre": "Esencia de Vainilla",
+      "cantidad": 8,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 17
+    },
+    {
+      "ingredienteId": "ING042",
+      "nombre": "Yemas",
+      "cantidad": 94,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING037",
+      "nombre": "Huevos",
+      "cantidad": 140,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 61
+    },
+    {
+      "ingredienteId": "ING069",
+      "nombre": "Azucar Blanca",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 9
+    },
+    {
+      "ingredienteId": "ING043",
+      "nombre": "Claras",
+      "cantidad": 210,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 60,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Horneado",
+      "tiempo": 20,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 2000,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 10
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 6812,
+    "precioMayorista": 681.75
+  }
+}
