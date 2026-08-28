@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING017",
-      "nombre": "Harina Integral",
-      "unidad": "g",
-      "precioUnidad": 8,
-      "activo": true
-    },
-    {
       "id": "ING018",
       "nombre": "Azucar Blanca",
       "unidad": "g",
