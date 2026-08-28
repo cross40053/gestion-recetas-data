@@ -349,6 +349,13 @@
       "unidad": "g",
       "precioUnidad": 9,
       "activo": true
+    },
+    {
+      "id": "ING073",
+      "nombre": "Agua Fria",
+      "unidad": "g",
+      "precioUnidad": 70,
+      "activo": true
     }
   ]
 }
