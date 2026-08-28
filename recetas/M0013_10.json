@@ -1,0 +1,136 @@
+{
+  "id": "M0013_10",
+  "nombre": "Porras",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 6 unid",
+  "autor": "Miguel Tena",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-01-09",
+    "actualizacion": "2026-08-27"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 6,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING016",
+      "nombre": "Harina Panadera Nicollini",
+      "cantidad": 300,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING005",
+      "nombre": "Sal",
+      "cantidad": 4,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING018",
+      "nombre": "Azúcar Casa Grande",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0
+    },
+    {
+      "ingredienteId": "ING019",
+      "nombre": "Agua Fria",
+      "cantidad": 350,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 0.001
+    },
+    {
+      "ingredienteId": "ING049",
+      "nombre": "Polvo de Hornear",
+      "cantidad": 12,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 0
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Reposo",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 1500,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "Proceso de Laminado 2.0, Proceso de empastado 1.2",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 2.5375,
+    "precioMayorista": 1.4802083333333333
+  }
+}
