@@ -237,6 +237,13 @@
       "unidad": "g",
       "precioUnidad": 9,
       "activo": true
+    },
+    {
+      "id": "ING057",
+      "nombre": "Manteca",
+      "unidad": "g",
+      "precioUnidad": 66,
+      "activo": true
     }
   ]
 }
