@@ -307,6 +307,13 @@
       "unidad": "g",
       "precioUnidad": 105,
       "activo": true
+    },
+    {
+      "id": "ING045",
+      "nombre": "Crema de leche Gloria",
+      "unidad": "g",
+      "precioUnidad": 108,
+      "activo": true
     }
   ]
 }
