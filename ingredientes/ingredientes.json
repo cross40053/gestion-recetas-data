@@ -279,6 +279,13 @@
       "unidad": "g",
       "precioUnidad": 17,
       "activo": true
+    },
+    {
+      "id": "ING063",
+      "nombre": "Agua Helada",
+      "unidad": "g",
+      "precioUnidad": 70,
+      "activo": true
     }
   ]
 }
