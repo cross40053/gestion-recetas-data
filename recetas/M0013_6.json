@@ -1,0 +1,154 @@
+{
+  "id": "M0013_6",
+  "nombre": "Churros 1 Mantequilla",
+  "categoria": "",
+  "descripcion": "Cantidad de receta: 12 porciones de 80gr",
+  "autor": "Miguel Tena",
+  "imagen": "",
+  "fechas": {
+    "creacion": "2025-01-09",
+    "actualizacion": "2026-08-27"
+  },
+  "rendimiento": {
+    "unidadesPorLote": 20,
+    "pesoPorUnidad": 0,
+    "rendimientoEsperado": 0,
+    "merma": 0
+  },
+  "formulacion": {
+    "porRaciones": true,
+    "porPorcentaje": true,
+    "ingredienteBase": ""
+  },
+  "materiaPrima": [
+    {
+      "ingredienteId": "ING001",
+      "nombre": "Harina Panadera Nicollini",
+      "cantidad": 250,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 5
+    },
+    {
+      "ingredienteId": "ING002",
+      "nombre": "Sal",
+      "cantidad": 3,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 13
+    },
+    {
+      "ingredienteId": "ING003",
+      "nombre": "Azúcar Casa Grande",
+      "cantidad": 100,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 9
+    },
+    {
+      "ingredienteId": "ING031",
+      "nombre": "Mantequilla",
+      "cantidad": 75,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 6,
+      "precioUnidad": 65
+    },
+    {
+      "ingredienteId": "ING020",
+      "nombre": "Agua Fria",
+      "cantidad": 500,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 5,
+      "precioUnidad": 70
+    },
+    {
+      "ingredienteId": "ING032",
+      "nombre": "Pasta de Vainilla",
+      "cantidad": 4,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 19
+    },
+    {
+      "ingredienteId": "ING027",
+      "nombre": "Huevos Pardos",
+      "cantidad": 170,
+      "unidad": "g",
+      "porcentaje": 0,
+      "desperdicio": 10,
+      "precioUnidad": 61
+    }
+  ],
+  "manoDeObra": [
+    {
+      "etapa": "Amasado",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    },
+    {
+      "etapa": "Reposo",
+      "tiempo": 30,
+      "unidadTiempo": "minutos",
+      "costoHora": 10
+    }
+  ],
+  "costosIndirectos": [
+    {
+      "concepto": "Electricidad",
+      "costoMensual": 1500,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Agua",
+      "costoMensual": 300,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Gas",
+      "costoMensual": 600,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Alquiler",
+      "costoMensual": 3800,
+      "porcentajeAsignado": 5
+    },
+    {
+      "concepto": "Mantenimiento",
+      "costoMensual": 500,
+      "porcentajeAsignado": 5
+    }
+  ],
+  "preparacion": {
+    "pasos": [],
+    "notas": []
+  },
+  "calidad": {
+    "pesoFinal": "",
+    "caracteristicasSensoriales": "",
+    "rangosAceptables": "",
+    "pruebasCalidad": ""
+  },
+  "controlRR": {
+    "metodoMedicion": "",
+    "frecuenciaControl": "Quincenal",
+    "criteriosAceptacion": "Temperatura de masa, apareciencia fisica",
+    "registroResultados": "Libro de registros"
+  },
+  "almacenamiento": {
+    "metodo": "",
+    "vidaUtil": "",
+    "etiquetado": ""
+  },
+  "comercializacion": {
+    "precioVenta": 5512,
+    "precioMayorista": 551.75
+  }
+}
