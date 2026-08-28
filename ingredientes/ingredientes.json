@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING014",
-      "nombre": "Huevo",
-      "unidad": "g",
-      "precioUnidad": 61,
-      "activo": true
-    },
-    {
       "id": "ING015",
       "nombre": "Margarina Hojaldre",
       "unidad": "g",
