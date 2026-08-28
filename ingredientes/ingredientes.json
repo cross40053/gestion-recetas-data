@@ -174,6 +174,13 @@
       "unidad": "g",
       "precioUnidad": 65,
       "activo": true
+    },
+    {
+      "id": "ING026",
+      "nombre": "Manteca para Untar",
+      "unidad": "g",
+      "precioUnidad": 66,
+      "activo": true
     }
   ]
 }
