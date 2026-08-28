@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING013",
-      "nombre": "Levadura",
-      "unidad": "g",
-      "precioUnidad": 16,
-      "activo": true
-    },
-    {
       "id": "ING014",
       "nombre": "Huevo",
       "unidad": "g",
