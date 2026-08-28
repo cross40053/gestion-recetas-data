@@ -188,6 +188,13 @@
       "unidad": "g",
       "precioUnidad": 61,
       "activo": true
+    },
+    {
+      "id": "ING028",
+      "nombre": "Mantequilla Delice",
+      "unidad": "g",
+      "precioUnidad": 65,
+      "activo": true
     }
   ]
 }
