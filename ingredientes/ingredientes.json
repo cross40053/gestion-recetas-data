@@ -1,13 +1,6 @@
 {
   "ingredientes": [
     {
-      "id": "ING010",
-      "nombre": "Ajonjoli",
-      "unidad": "g",
-      "precioUnidad": 38,
-      "activo": true
-    },
-    {
       "id": "ING011",
       "nombre": "Anis",
       "unidad": "g",
